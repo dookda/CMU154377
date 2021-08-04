@@ -1,0 +1,19 @@
+{
+  "name": "lab154377",
+  "version": "1.0.0",
+  "description": "web gis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "gis"
+  ],
+  "author": "sakda homhuan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
